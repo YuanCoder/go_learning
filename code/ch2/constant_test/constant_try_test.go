@@ -1,7 +1,7 @@
 package constant_test
 
 import "testing"
-
+//常量
 const (
 	Monday = 1 + iota
 	Tuesday

@@ -3,7 +3,8 @@ package fib
 import (
 	"testing"
 )
-
+//编写测试程序:源文件以 _test结尾, 测试方法以 TestXXX开头
+//斐波拉契数列
 func TestFibList(t *testing.T) {
 	// var a int = 1
 	// var b int = 1
